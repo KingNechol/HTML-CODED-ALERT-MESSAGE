@@ -3,11 +3,9 @@ This is an Alert message coded in HTML for my client in ACCESS BANK
 <!Doctype html>
 
 <html lang='en'>
-
-
-
-<body>
-<style>
+    <head>
+    
+    <style>
 .mee{
 color: #74eb34;
 font-weight: bolder;
@@ -17,6 +15,12 @@ ul{list-style-type: square;
 }
 
 </style>
+    
+    </head>
+
+
+<body>
+
 <p>
     Dear Colleague&#44;<br/>
     
